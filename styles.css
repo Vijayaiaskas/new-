@@ -26,7 +26,7 @@ button,input,select,textarea{font:inherit}
 
 .site-header{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.94);backdrop-filter:blur(14px);border-bottom:1px solid rgba(15,35,64,.08)}
 .nav-wrap{height:76px;display:flex;align-items:center;justify-content:space-between;gap:28px}
-.brand{display:flex;align-items:center;gap:12px}.brand img{width:42px;height:42px;object-fit:contain}.brand div{display:flex;flex-direction:column;line-height:1.05}.brand strong{font-size:17px;letter-spacing:.03em}.brand span{font-size:10px;letter-spacing:.22em;color:var(--orange);margin-top:5px;font-weight:700}
+.brand{display:flex;align-items:center;gap:12px}.brand img{width:52px;height:52px;object-fit:contain}.brand div{display:flex;flex-direction:column;line-height:1.05}.brand strong{font-size:17px;letter-spacing:.03em}.brand span{font-size:10px;letter-spacing:.22em;color:var(--orange);margin-top:5px;font-weight:700}
 .site-nav{display:flex;align-items:center;gap:27px;font-size:14px;font-weight:600}.site-nav a{color:#334155;transition:.2s}.site-nav a:hover{color:var(--orange)}
 .menu-btn{display:none;border:0;background:transparent;font-size:25px;color:var(--navy);cursor:pointer}
 
